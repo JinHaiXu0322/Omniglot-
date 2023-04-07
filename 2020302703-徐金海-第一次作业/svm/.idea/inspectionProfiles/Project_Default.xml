@@ -1,0 +1,80 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="67">
+            <item index="0" class="java.lang.String" itemvalue="thonny" />
+            <item index="1" class="java.lang.String" itemvalue="pygame" />
+            <item index="2" class="java.lang.String" itemvalue="threadpoolctl" />
+            <item index="3" class="java.lang.String" itemvalue="typed-ast" />
+            <item index="4" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="5" class="java.lang.String" itemvalue="mypy" />
+            <item index="6" class="java.lang.String" itemvalue="roman" />
+            <item index="7" class="java.lang.String" itemvalue="pianohat" />
+            <item index="8" class="java.lang.String" itemvalue="pycups" />
+            <item index="9" class="java.lang.String" itemvalue="pycairo" />
+            <item index="10" class="java.lang.String" itemvalue="PyGObject" />
+            <item index="11" class="java.lang.String" itemvalue="distro-info" />
+            <item index="12" class="java.lang.String" itemvalue="virtualenvwrapper" />
+            <item index="13" class="java.lang.String" itemvalue="sense-hat" />
+            <item index="14" class="java.lang.String" itemvalue="lxml" />
+            <item index="15" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="16" class="java.lang.String" itemvalue="RPi.GPIO" />
+            <item index="17" class="java.lang.String" itemvalue="unattended-upgrades" />
+            <item index="18" class="java.lang.String" itemvalue="ExplorerHAT" />
+            <item index="19" class="java.lang.String" itemvalue="pyinotify" />
+            <item index="20" class="java.lang.String" itemvalue="opencv-contrib-python" />
+            <item index="21" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="22" class="java.lang.String" itemvalue="wrapt" />
+            <item index="23" class="java.lang.String" itemvalue="cryptography" />
+            <item index="24" class="java.lang.String" itemvalue="reportlab" />
+            <item index="25" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="26" class="java.lang.String" itemvalue="python-apt" />
+            <item index="27" class="java.lang.String" itemvalue="SecretStorage" />
+            <item index="28" class="java.lang.String" itemvalue="drumhat" />
+            <item index="29" class="java.lang.String" itemvalue="psutil" />
+            <item index="30" class="java.lang.String" itemvalue="simplejson" />
+            <item index="31" class="java.lang.String" itemvalue="scrollphathd" />
+            <item index="32" class="java.lang.String" itemvalue="ssh-import-id" />
+            <item index="33" class="java.lang.String" itemvalue="picamera" />
+            <item index="34" class="java.lang.String" itemvalue="automationhat" />
+            <item index="35" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="36" class="java.lang.String" itemvalue="sn3218" />
+            <item index="37" class="java.lang.String" itemvalue="phatbeat" />
+            <item index="38" class="java.lang.String" itemvalue="pycurl" />
+            <item index="39" class="java.lang.String" itemvalue="blinkt" />
+            <item index="40" class="java.lang.String" itemvalue="cysignals" />
+            <item index="41" class="java.lang.String" itemvalue="requests" />
+            <item index="42" class="java.lang.String" itemvalue="pycrypto" />
+            <item index="43" class="java.lang.String" itemvalue="Cap1xxx" />
+            <item index="44" class="java.lang.String" itemvalue="requests-oauthlib" />
+            <item index="45" class="java.lang.String" itemvalue="cupshelpers" />
+            <item index="46" class="java.lang.String" itemvalue="touchphat" />
+            <item index="47" class="java.lang.String" itemvalue="virtualenv-clone" />
+            <item index="48" class="java.lang.String" itemvalue="zipp" />
+            <item index="49" class="java.lang.String" itemvalue="motephat" />
+            <item index="50" class="java.lang.String" itemvalue="pysmbc" />
+            <item index="51" class="java.lang.String" itemvalue="urllib3" />
+            <item index="52" class="java.lang.String" itemvalue="tox" />
+            <item index="53" class="java.lang.String" itemvalue="rainbowhat" />
+            <item index="54" class="java.lang.String" itemvalue="scipy" />
+            <item index="55" class="java.lang.String" itemvalue="skywriter" />
+            <item index="56" class="java.lang.String" itemvalue="uvc" />
+            <item index="57" class="java.lang.String" itemvalue="stevedore" />
+            <item index="58" class="java.lang.String" itemvalue="Send2Trash" />
+            <item index="59" class="java.lang.String" itemvalue="twython" />
+            <item index="60" class="java.lang.String" itemvalue="unicornhathd" />
+            <item index="61" class="java.lang.String" itemvalue="sortedcontainers" />
+            <item index="62" class="java.lang.String" itemvalue="spidev" />
+            <item index="63" class="java.lang.String" itemvalue="RTIMULib" />
+            <item index="64" class="java.lang.String" itemvalue="envirophat" />
+            <item index="65" class="java.lang.String" itemvalue="scrollphat" />
+            <item index="66" class="java.lang.String" itemvalue="responses" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
